@@ -1,0 +1,11 @@
+{
+  "helloWorld": "হ্যালো ওয়ার্ল্ড !",
+  "@step_of": {
+    "placeholders": {
+      "no": {
+        "type": "String"
+      }
+    }
+  },
+  "no_internet_connection": "ইন্টারনেট সংযোগ নেই"
+}

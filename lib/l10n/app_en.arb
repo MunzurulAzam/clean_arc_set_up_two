@@ -1,0 +1,15 @@
+{
+  "helloWorld": "Hello World!",
+  "step_of": "Step {no} of {length}",
+  "@step_of": {
+    "placeholders": {
+      "no": {
+        "type": "String"
+      },
+      "length": {
+        "type": "String"
+      }
+    }
+  },
+  "no_internet_connection": "No internet connection"
+}
